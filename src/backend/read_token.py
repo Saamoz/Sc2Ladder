@@ -1,6 +1,5 @@
 import json
-
-f = open('test.json', 'r')
+f = open('test.txt', 'r')
 text = f.read()
 
 request = json.loads(text)

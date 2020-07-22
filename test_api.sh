@@ -22,12 +22,4 @@ python3 read_profiles.py
 
 # curl -X GET "https://us.api.blizzard.com/sc2/legacy/profile/1/1/5070029/matches?access_token=USUqIquBzDjvN03NuBuoo2t1XUqtNwI8G9"
 
-<<<<<<< HEAD:test_api.sh
 
-=======
-curl -H "Authorization: Bearer USp7j10raM6lSLHQj8N8twPQBiNUmMg5S2" http://us.battle.net/oauth/userinfo
-
-curl -X GET 'https://us.battle.net/oauth/userinfo' -H 'Authorization: Bearer USp7j10raM6lSLHQj8N8twPQBiNUmMg5S2' > output.html
-
-$SHELL
->>>>>>> 8b9137ceb5c2661ad08ef37d2b94faec5f2ee768:src/backend/test_api.sh

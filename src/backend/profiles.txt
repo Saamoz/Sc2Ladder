@@ -1,0 +1,1 @@
+[{"realm": "1", "region": "US", "rank": "Silver", "username": "person", "bnet_id": "dontkillme#1805", "race": "Terran", "mmr": 2201, "wins": 52, "losses": 51, "clan": null, "profile_id": 5070029, "alias": null}]
